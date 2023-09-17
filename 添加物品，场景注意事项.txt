@@ -1,0 +1,2 @@
+场景：添加sence变量，initialize函数，SENCENUM常量
+物品：添加结构体，initialize函数并且若每次属性不一样需要初始化函数，添加至use函数，若为近程加入到ShortItem中并修改SHORTNUM，若为消耗品使用后想老虎钳一样删除
